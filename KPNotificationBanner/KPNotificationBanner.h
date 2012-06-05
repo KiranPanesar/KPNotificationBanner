@@ -3,7 +3,7 @@
 //  KPNotificationTest
 //
 //  Created by Kiran Panesar on 04/06/2012.
-//  Copyright (c) 2012 adappt Designs. All rights reserved.
+//  Copyright (c) 2012 MobileX Labs. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
